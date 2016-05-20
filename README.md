@@ -4,7 +4,7 @@ This script has a nice story. The Singapore government hands out generous subsid
 
 Someone I know owns a retail shop, whose point-of-sales (POS) system fried its motherboard. The technical staff quoted her a price of $500 to replace it, basically tantamount to daylight robbery. I have friends who could build a pretty respectable system for that kind of price, or never mind my nerdy friends, you could buy a Chromebook for that much.  
 
-After she decided not to replace the motherboard, this person commissioned me to find and implement a fix within 24 hours. The reason why there's such an urgent need for a fix is that the retail shop must report its takings to the shopping mall which then collects a cut of the gross turnover. There is a fine if we don't do it. 
+After she decided not to replace the motherboard, this person commissioned me to find and implement a fix within 24 hours. The reason why there's such an urgent need for a fix is that the retail shop must report its takings to the shopping mall which then collects a cut of the gross turnover. The mall imposes a fine if we fail to report the takings electronically by the POS system. 
 
 Luckily, there was another PC lying around in the shop that we could use, in addition to all the other working accessories such as the thermal printer, cash register and what have you. I had the idea of installing an open source POS system, and found a pretty respectable software called Unicenta (https://sourceforge.net/projects/unicentaopos/). 
 
