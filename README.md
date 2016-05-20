@@ -12,7 +12,7 @@ Luckily, there was another PC lying around in the shop that we could use, in add
 
 This is just a quick guide for anyone who might end up in our situation. 
 
-The thermal receipt printer is an Asterix ST-EP4, and I was able to find a Windows driver for it. It works basically as any ordinary printer. For a while I was flummoxed about how to get it to open the cash register. But it turns out that the thermal printer has a *trigger* that can open the cash drawer either before or after a receipt is printed. There's an option in Windows' printer properties that allows you to change this setting. 
+The thermal receipt printer is an Asterix ST-EP4, and I was able to find a Windows driver for it. (**NB** both the printer and Unicenta have drivers for Linux, Mac OS and Windows.) It works basically as any ordinary printer. For a while I was flummoxed about how to get it to open the cash register. But it turns out that the thermal printer has a *trigger* that can open the cash drawer either before or after a receipt is printed. There's an option in Windows' printer properties that allows you to change this setting. 
 
 The setup of the Unicenta system is pretty straightforward. There are only two important differences from a standard setup: 
 
