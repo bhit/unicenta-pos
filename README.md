@@ -17,7 +17,7 @@ The thermal receipt printer is an Asterix ST-EP4, and I was able to find a Windo
 The setup of the Unicenta system is pretty straightforward. There are only two important differences from a standard setup: 
 
 1. The setup defaults to using an Apache DB. To access the data with the script in this repository it is necessary to install MySQL. I first installed MySQL. I also used a utility called HeidiSQL, logged into my local SQL server and created a database for Unicenta (named `unicentaopos`) before running the Unicenta database configuration. 
-2. In the setup of the accessories, you must set the primary printer to the thermal receipt printer. If the receipt doesn't print then the cash register doesn't open. 
+2. In the setup of the accessories (Unicenta Configuration app), you must set the primary printer to the thermal receipt printer. If the receipt doesn't print then the cash register doesn't open. 
 
 After this we just poked around to see how the system works, created a few products and printed a few receipts. It's not the most user friendly but at this point we were satisfied and relieved. 
 
